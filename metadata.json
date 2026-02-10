@@ -1,0 +1,5 @@
+{
+  "name": "Humanize AI",
+  "description": "A linguistic analysis tool that detects 'AI-flavored' text and rewrites it with human warmth, rhythm, and distinct perspective.",
+  "requestFramePermissions": []
+}
